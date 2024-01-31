@@ -1,3 +1,5 @@
+# Ensure that you have the prerequisites indicated in the README.md document
+
 from CreateIndexList import CreateIndexList
 from CreateAllList import CreateAllList
 
