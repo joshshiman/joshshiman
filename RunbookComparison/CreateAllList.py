@@ -34,5 +34,14 @@ def CreateAllList(filename):
         # create a new list containing only elements with '.md'
         filteredList = [runbook for runbook in indexList if '.md' in runbook]
 
-        return filteredList
+        # create a new list with everything removed before each filename
+        simpleList = []
+        for runbook in filteredList:
+            space_index = runbook.find(' ')
+            runbookName = runbook[space_index + 1:].strip()
+            simpleList.append(runbookName)
 
+        # create a new list with no duplicates
+        uniqueList = list(set(simpleList))
+
+        return uniqueList

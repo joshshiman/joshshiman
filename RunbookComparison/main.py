@@ -4,6 +4,7 @@ from CreateAllList import CreateAllList
 RunbookAppendix = CreateIndexList('RunbookIndex.txt')
 RunbookRepository = CreateAllList('AllRunbooks.txt')
 
+
 # check if runbook is missing from index
 MissingRunbooks = []
 for runbook in RunbookRepository:
