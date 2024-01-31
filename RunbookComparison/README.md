@@ -1,4 +1,5 @@
-# These scripts will allow you to automatically check to see if the Public Runbook README.md file is missing any files from the Public Runbook Repository
+# Runbook Comparion Utility
+These scripts will allow you to automatically check to see if the Public Runbook README.md file is missing any files from the Public Runbook Repository
 
 ## Prerequisites
 
@@ -8,4 +9,4 @@ Secondly you will need to create an `AllRunbooks.txt` file. This file is created
 
 ## How to Use
 
-run the `main.py` file.
+run the `main.py` file

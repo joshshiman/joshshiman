@@ -37,9 +37,10 @@ def CreateAllList(filename):
         # create a new list with everything removed before each filename
         simpleList = []
         for runbook in filteredList:
-            space_index = runbook.find(' ')
-            runbookName = runbook[space_index + 1:].strip()
-            simpleList.append(runbookName)
+            space_index = runbook.rfind(' ')
+            if space_index != -1:
+                runbookName = runbook[space_index + 1:].strip()
+                simpleList.append(runbookName)
 
         # create a new list with no duplicates
         uniqueList = list(set(simpleList))
