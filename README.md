@@ -3,7 +3,7 @@
 My name is **Joshua Shiman**
 - 🎓 I'm a recent Business Technology Management Graduate at Wilfrid Laurier University  
 - 💼 I'm currently working as a Business Transformation Consultant @ IBM
-- 🇵🇭 On top of that, Swagapino
+- 🇵🇭 I'm also Swagapino
 
 ### Social:
 
