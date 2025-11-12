@@ -1,5 +1,5 @@
 # Joshua Shiman
-- 🎓 4th-year Business Technology Management Student at Wilfrid Laurier University
+- 🎓 Business Technology Management Graduate at Wilfrid Laurier University
 - 💼 Business Transformation Consultant @ IBM
 - 🇵🇭 Swagapino
 
