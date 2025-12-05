@@ -1,4 +1,4 @@
-![wow-sky-box](https://lh3.googleusercontent.com/d/1ZN9QS44TPvnHvRrQDAiPYhKEqdkIQekf)
+![wow-sky-box](icc.webp)
 
 My name is **Joshua Shiman** 👋
 - 🎓 I'm a recent Business Technology Management Graduate at Wilfrid Laurier University  
